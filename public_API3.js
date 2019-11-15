@@ -2,7 +2,7 @@
 
 
 //Establishing body's background image
-document.body.style.backgroundImage = "url('/Users/deniseb./Downloads/PUBLIC_API/bgImg.jpeg')";
+document.body.style.backgroundImage = "url('bgImg.jpeg')";
 document.body.style.backgroundRepeat = "no-repeat";
 document.body.style.backgroundPosition = "center";
 document.body.style.backgroundSize = "cover";
